@@ -16,7 +16,7 @@ class MyGLMoblet : public GLMoblet
 {
 public:
 
-	// ================== Constructor ==================
+	// ================== Dus ==================
 
 	/**
 	 * Initialize rendering parameters.
